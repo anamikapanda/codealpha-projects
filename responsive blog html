@@ -1,0 +1,28 @@
+<div id="resume">
+ 
+  <h1>an anonymous cv</h1>
+  <p>Cell: <a href=#>99XXXXXX</a>
+  <p>Web: <a href=#>panda.com</a>
+  <p>Email: <a href=#>panda@gmail.com</a>
+  <p id="objective">I am a web intern at codealpha.
+<dl>
+  <dt>Education
+  <dd>
+    <h2>MAKAUT</h2>
+    <p><strong>Major:</strong> Applied Mathematics<br/>
+    <strong>Minor:</strong> EnglishLanguages</p>
+</dl>
+<dl>
+<dt>Skills
+<dd>
+<h2>prog skills</h2>
+<p>c,c++,java,html,css,js</h2>
+<p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
+</dl>
+<dl>
+<dt>Experience
+<dd>
+<h2>web dev intern<span> present</span></h2>
+<ul>
+<li>Development within the linkedin connections
+<li>.........
